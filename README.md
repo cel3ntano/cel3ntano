@@ -1,12 +1,15 @@
 ## Hi there 👋
-
+- 💬 I'm Andrii, a junior front end developer
+- ⚙️ My technical skills currently include HTML, CSS, and JavaScript
+- 🌱 I’m currently learning React
+- 🔭 I look forward to joining a team of developers and contributing to innovative projects
 <!--
 **cel3ntano/cel3ntano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning React
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
