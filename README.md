@@ -9,6 +9,23 @@
 
 - 💻 You can see my portfolio at [projects.zhygalko.dev](https://projects.zhygalko.dev/)
 
+### 👨‍💻 Featured projects:
+
+<table>
+  <tr>
+    <td width="50%" align="center"><a href="https://github.com/cel3ntano/lexi_grow"><img width="100%" src="https://repository-images.githubusercontent.com/926311848/23aade93-f4d5-46e0-a7c1-6f95ddabb85d"></a><br><sup>Lexi Grow</sup>
+    <td width="50%" align="center"><a href="https://github.com/cel3ntano/LinguaBridge"><img width="100%" src="https://repository-images.githubusercontent.com/912566758/f5da7bad-44ed-46bd-8adb-4b3260a2e718"></a><br><sup>Lingua Bridge</sup></td>
+  </tr>
+  <tr>
+    <td width="50%"  align="center"><a href="https://github.com/cel3ntano/campers"><img width="100%" src="https://repository-images.githubusercontent.com/895317136/eaf6bb2c-60d6-4375-9f26-841e0b948579"></a><br><sup>Travel Trucks</sup></td>
+    <td width="50%"  align="center"><a href="https://github.com/cel3ntano/project_myResume"><img width="100%" src="https://repository-images.githubusercontent.com/813830678/ef0980bb-9873-495b-bfe7-e983f68d4335"></a><br><sup>Developer's portfolio</sup></td>
+  </tr>
+  <tr>
+    <td width="50%"  align="center"><a href="https://github.com/cel3ntano/project-vegetables24"><img width="100%" src="https://repository-images.githubusercontent.com/763606697/84093de4-4cb9-492d-91e3-730d986048fe"></a><br><sup>Green Harvest</sup></td>
+    <td width="50%"  align="center"><a href="https://github.com/cel3ntano/goit-react-hw-05/"><img width="100%" src="https://repository-images.githubusercontent.com/833823730/7b8d12f1-255a-46b8-a156-d5ac76bf4870"></a><br><sup>Movie explorer</sup></td>
+  </tr>
+</table>
+
 ### 🛠️ Technologies and tools I use:
 
 <p>
